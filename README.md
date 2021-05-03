@@ -25,6 +25,5 @@ Soy desarrollador web 👨‍💻 y pronto movil en React Native 😁 me he dese
 ## Me puedes encontrar en
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/JMiguelPM)
 [![GitLab](https://img.shields.io/badge/-GitLab-0077B5?style=plastic&logo=GitLab&logoColor=white&link=https://https://gitlab.com/pmjm0990/)](https://gitlab.com/pmjm0990/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/miguel-parra-muñoz-89a360202/)]
-(https://linkedin.com/in/miguel-parra-muñoz-89a360202/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/miguel-parra-muñoz-89a360202/)](https://linkedin.com/in/miguel-parra-muñoz-89a360202/)
 ### Saludos 👋😄
