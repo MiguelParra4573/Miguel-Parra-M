@@ -19,7 +19,6 @@ Soy desarrollador web 👨‍💻 y pronto movil en React Native 😁 me he dese
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-C51928?style=plastic&logo=Selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=plastic&logo=Cypress&logoColor=white)
 
 ## Me puedes encontrar en
