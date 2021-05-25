@@ -39,8 +39,6 @@ Aqui 👇🏼 puedes observar algunas de las tecnologias que he estudiado y con 
 ![Windows](https://img.shields.io/badge/-Windows-196FC8?style=plastic&logo=Windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-C21325?style=plastic&logo=Debian&logoColor=white)
 
-
-
 ## Me puedes contactar a travéz de ...
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/JMiguelPM)
 [![GitLab](https://img.shields.io/badge/-GitLab-f06513?style=plastic&logo=GitLab&logoColor=white&link=https://https://gitlab.com/pmjm0990/)](https://gitlab.com/pmjm0990/)
