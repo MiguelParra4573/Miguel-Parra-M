@@ -25,7 +25,7 @@ Aqui 👇🏼 puedes observar algunas de las tecnologias que he estudiado y con 
 ![MySQL](https://img.shields.io/badge/-MySQL-196FC8?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-043669?style=plastic&logo=PostgreSQL&logoColor=white)
-![SQLserver](https://img.shields.io/badge/-SQL Server-d42c2c?style=plastic&logo=sqlserver&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-d42c2c?style=plastic&logo=SQLServer&logoColor=white)
 
 ### Test
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
