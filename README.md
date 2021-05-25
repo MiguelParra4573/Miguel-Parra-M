@@ -27,8 +27,6 @@ Aqui 👇🏼 puedes observar algunas de las tecnologias que he estudiado y con 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-043669?style=plastic&logo=PostgreSQL&logoColor=white)
 ![SQLserver](https://img.shields.io/badge/-SQL Server-d42c2c?style=plastic&logo=sqlserver&logoColor=white)
 
-[//]: # (![Docker]https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-
 ### Test
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=plastic&logo=Cypress&logoColor=white)
