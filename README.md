@@ -20,7 +20,6 @@ Aqui 👇🏼 puedes observar algunas de las tecnologias que he estudiado y con 
 ![](https://img.shields.io/badge/Python-0859AE?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-FF9200?style=for-the-badge&logo=Java&logoColor=white)
 
-
 ### Data Base
 ![](https://img.shields.io/badge/MySQL-196FC8?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -39,13 +38,13 @@ Aqui 👇🏼 puedes observar algunas de las tecnologias que he estudiado y con 
 ![](https://img.shields.io/badge/Windows-196FC8?style=for-the-badge&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/Debian-C21325?style=for-the-badge&logo=Debian&logoColor=white)
 
+### Algunas de mis estadisticas
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-parra-m&show_icons=true&locale=en&layout=compact" alt="miguel-parra-m" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-parra-m&show_icons=true&locale=en" alt="miguel-parra-m" /></p>
+
 ## Me puedes contactar a travéz de ...
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/JMiguelPM) 
 [![](https://img.shields.io/badge/gitlab-f06513?&style=for-the-badge&logo=gitlab&logoColor=white&color=F05032)](https://gitlab.com/pmjm0990/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://linkedin.com/in/miguel-parra-muñoz-89a360202/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-parra-m&show_icons=true&locale=en&layout=compact" alt="miguel-parra-m" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-parra-m&show_icons=true&locale=en" alt="miguel-parra-m" /></p>
-
 
 ### Saludos 👋😄
